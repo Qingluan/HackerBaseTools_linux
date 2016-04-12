@@ -11,7 +11,7 @@
 
 ```sh
 # download and clone project
-~ git clone https://github.com/Qingluan/HackerBaseTools_linux.git && cd HackerBaseTools_linux 
+~ git clone https://github.com/Qingluan/HackerBaseTools_linux.git && cd HackerBaseTools_linux/src 
 # generate your own pub key
 ~ ssh-keygen -t rsa -P ''  && cp ~/.ssh/id_rsa.pub ./user.pub
 
